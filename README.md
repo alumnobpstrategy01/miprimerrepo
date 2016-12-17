@@ -1,2 +1,2 @@
 # miprimerrepo
-Repositorio de ejemplo
+Rama principal de mi repositorio de ejemplo
